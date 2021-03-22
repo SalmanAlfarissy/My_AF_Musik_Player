@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AF Musik Player</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="af_musik_player">AF Musik Player</string>
+    <string name="mendengarkan_musik_lebih_mudah">Mendengarkan Musik Lebih Mudah</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="about">About</string>
+    <string name="list_lagu">List Lagu</string>
+</resources>
